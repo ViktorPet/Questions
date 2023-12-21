@@ -1,0 +1,5 @@
+127.0.0.1 - - [20/Dec/2023:18:55:13 +0200] "GET / HTTP/1.1" 500 996126 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+127.0.0.1 - - [20/Dec/2023:18:55:14 +0200] "GET /favicon.ico HTTP/1.1" 200 296 "http://dev.questions.bg/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+127.0.0.1 - - [20/Dec/2023:18:55:48 +0200] "GET / HTTP/1.1" 200 8314 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+127.0.0.1 - - [20/Dec/2023:21:43:42 +0200] "GET /favicon.ico HTTP/1.1" 304 247 "http://dev.questions.bg/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+127.0.0.1 - - [20/Dec/2023:22:15:28 +0200] "GET / HTTP/1.1" 200 8314 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
